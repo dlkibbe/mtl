@@ -219,7 +219,7 @@ In the Question box, add a basecase question about no new decisions in addition 
 In the Hypothesis box, briefly describe what you expect to happen over the next two years if the team continues with business as usual.
 Click on the Save (not Save & Reset) button in the upper right corner of the Text section. This will allow us to quickly pull it up at the next session.
 
- + The last think to do is log out of the SIM UI! 
+ + The last thing to do is log out of the SIM UI! 
 
 <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> ***00:50-00:55*** 
 
