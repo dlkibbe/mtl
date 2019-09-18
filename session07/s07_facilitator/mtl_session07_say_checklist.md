@@ -63,7 +63,7 @@ output:
 - [ ] How **Basecase System Behavior** findings are explained by **Causal Loop Complexity Reveal** for team's priority:
 - [ ] **Decisions:** Based on what the team learned in this base case experiment, what will the team use _Modeling to Learn_ to learn next?
 
-## Have Team Lead pull up the session 06 SEE guide Done/Do review.
+## Have Team Lead pull up the session 07 SEE guide Done/Do review.
 <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:50-00:55**  
 - [ ] Done: We entered our Question, Hypothesis, Findings and Decision for our Base Case (bc) in the Text section.
 - [ ] Do: Log into mtl.how/sim and explore the results of the BC run in the Results Dashboard of the Expanded Outputs section to prepare for experiment 1. 
